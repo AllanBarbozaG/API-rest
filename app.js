@@ -21,7 +21,7 @@ app.use(express.json());
 app.use(cors());
 
 Quartos.rotas(app);
-Limpezas.rotas(app);
+
 Reservas.rotas(app);
 Funcionarios.rotas(app);
 Hospedes.rotas(app);
