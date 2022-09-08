@@ -1,4 +1,4 @@
-import LimpezaModel from "../models/LimpezaModel.js";
+import LimpezaModel from "../models/limpezaModel.js";
 import ValidacoesService from "../services/ValidacoesService.js";
 import DatabaseLimpezasMetodos from "../DAO/DatabaseLimpezasMetodos.js";
 
